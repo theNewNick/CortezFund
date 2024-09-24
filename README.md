@@ -1,0 +1,2 @@
+# CortezFund
+GenAI Project
